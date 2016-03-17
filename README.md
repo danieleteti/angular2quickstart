@@ -8,6 +8,7 @@ cd angular2training
 git clone https://github.com/danieleteti/angular2quickstart.git
 cd angular2quickstart
 npm install
+typings install
 npm start
 ```
 
